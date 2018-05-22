@@ -11,6 +11,12 @@ body {
   color: white;
 }
 
+/* Login icon */
+span[class="glyphicon glyphicon-plus"] {
+  font-size: 0.75em;
+  vertical-align: top;
+}
+
 #landing {
   text-align: center;
   padding-top: 25%;
@@ -32,9 +38,4 @@ hr  {
   width: 400px;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0,0,0,0.2);
-}
-
-span[class="glyphicon glyphicon-plus"] {
-  font-size: 0.75em;
-  vertical-align: top;
 }
